@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">Data Scientist and AI Enthusiast with Proficiency in Python Frameworks and Cloud Deployment</h3>
-<img align = "right" alt="Data Doesn't Lie" width="400" src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47orta59oexhzx8w5knl2ardwuyt6dklz5mnkjnn8z&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+<img align = "right" alt="Data Doesn't Lie" width="200" src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47orta59oexhzx8w5knl2ardwuyt6dklz5mnkjnn8z&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshhere&label=Profile%20views&color=0e75b6&style=flat" alt="riteshhere" /> </p>
 
 - 🔭 I’m currently working on [Text Summarization](https://github.com/riteshhere/TextSummarizer)
